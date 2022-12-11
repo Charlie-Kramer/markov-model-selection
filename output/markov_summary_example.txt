@@ -1,0 +1,43 @@
+Player_name,model,result
+Bam Adebayo, AR,1
+Bradley Beal, AR,1
+Charles Bassey, AR,1
+Cole Anthony, AR,1
+Dalano Banton, AR,1
+Darius Bazley, AR,1
+Davis Bertans, AR,1
+Deandre Ayton, AR,1
+Deni Avdija, AR,1
+Desmond Bane, AR,1
+Dominick Barlow,Not enough data,None 
+Giannis Antetokounmpo, AR,1
+Grayson Allen, AR,1
+Harrison Barnes, AR,1
+Jarrett Allen, AR,1
+Jose Alvarado, AR,1
+Keita Bates-Diop, AR,1
+Kent Bazemore, AR,1
+Kostas Antetokounmpo,Not enough data,None 
+Kyle Anderson, AR,1
+LaMelo Ball, AR,1
+Lonzo Ball, AR,1
+Malik Beasley, AR,1
+MarJon Beauchamp,Not enough data,None 
+Marvin Bagley III, AR,1
+Mo Bamba, AR,1
+Nickeil Alexander-Walker, AR,1
+Nicolas Batum, AR,1
+O.G. Anunoby, AR,1
+Ochai Agbaji,Not enough data,None 
+Paolo Banchero,Not enough data,None 
+Patrick Baldwin Jr.,Not enough data,None 
+Patrick Beverley, AR,1
+Precious Achiuwa, AR,1
+RJ Barrett, AR,1
+Ryan Arcidiacono, AR,1
+Santi Aldama, AR,1
+Scottie Barnes, AR,1
+Steven Adams, AR,1
+Thanasis Antetokounmpo, AR,1
+Udoka Azubuike, AR,1
+Will Barton, AR,1

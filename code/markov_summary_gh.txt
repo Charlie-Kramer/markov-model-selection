@@ -1,0 +1,6 @@
+Player_name,model,result
+Dominick Barlow, Not enough data, None 
+Patrick Beverley, Exog,2
+Deandre Ayton, Exog,1
+Bam Adebayo, Exog,1
+Desmond Bane, Exog,1
